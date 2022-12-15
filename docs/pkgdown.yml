@@ -1,0 +1,10 @@
+pandoc: '2.18'
+pkgdown: 2.0.6
+pkgdown_sha: ~
+articles:
+  qacPlot: qacPlot.html
+last_built: 2022-12-15T23:33Z
+urls:
+  reference: http://cgao1.github.io/qacPlot/reference
+  article: http://cgao1.github.io/qacPlot/articles
+
