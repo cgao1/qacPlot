@@ -1,0 +1,20 @@
+useurl: ~
+template:
+  params:
+    bootswatch: cerulean
+
+title: qacPlot
+url: http://cgao1.github.io/qacPlot
+reference:
+  - title: Main Functions
+    desc: ~
+    contents:
+      - '`thePlot`'
+navbar:
+  type: inverse
+  left:
+    - icon: fa-home
+      href: index.html
+    - text: "Vignette"
+      icon: fas fa-chalkboard-teacher
+      href: articles/qacPlot.html
