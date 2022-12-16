@@ -33,5 +33,5 @@ There is only one function **thePlot** in this package, because we want to keep 
 thePlot(mtcars, cyl, mpg)
 ```
 
-
+For more specific and comprehensive examples for **thePlot**, please visit the [**vignette**](https://cgao1.github.io/qacPlot/articles/qacPlot.html)
 
